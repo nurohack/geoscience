@@ -22,6 +22,9 @@ body {
     .carousel {
         margin-top: 80px;
     }
+    .yoc {
+        margin: auto;
+    }
 }
 .carousel {
     margin-top: 56px;
