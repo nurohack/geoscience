@@ -1,0 +1,28 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    background-color: #e9e8e8;
+}
+
+.xett {
+    height: 4px;
+    width: 70px;
+    margin: 20px auto;
+    background-image: linear-gradient(to left, rgb(19, 2, 253), rgb(2, 10, 119));
+}
+
+.card>img {
+    object-fit: cover;
+}
+
+@media(max-width: 768px) {
+    .marg {
+        margin-top: 30px;
+        padding: 30px;
+    }
+    .carousel {
+        margin-top: 80px;
+    }
+}
+.carousel {
+    margin-top: 56px;
+}
